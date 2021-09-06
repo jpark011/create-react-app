@@ -1,0 +1,28 @@
+{
+  "name": "create-react-app",
+  "version": "1.0.0",
+  "description": "Create a minimal & standard React app (with TS + emotion)",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpark011/create-react-app.git"
+  },
+  "keywords": [
+    "react",
+    "starter",
+    "cra",
+    "typescript",
+    "emotion",
+    "webpack",
+    "babel"
+  ],
+  "author": "Jay Park",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpark011/create-react-app/issues"
+  },
+  "homepage": "https://github.com/jpark011/create-react-app#readme"
+}
