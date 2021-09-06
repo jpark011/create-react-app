@@ -1,0 +1,19 @@
+{
+  "env": {
+    "es2020": true,
+    "node": true
+  },
+  "extends": ["react-app", "prettier"],
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "ecmaVersion": 2020
+  },
+  "plugins": [
+    "import",
+    "@typescript-eslint",
+    "react",
+    "react-hooks",
+    "jsx-a11y",
+    "@emotion"
+  ]
+}
