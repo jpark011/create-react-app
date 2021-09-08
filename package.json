@@ -1,6 +1,6 @@
 {
   "name": "@jpark011/create-react-app",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Create a minimal & standard React app (with TS + emotion)",
   "main": "dist/index.js",
   "bin": "dist/index.js",
