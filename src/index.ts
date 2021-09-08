@@ -2,12 +2,7 @@ import { Command } from 'commander';
 import fs from 'fs-extra';
 import path from 'path';
 import { cwd } from 'process';
-import { dirname } from 'path';
-import { fileURLToPath } from 'url';
 import ora from 'ora';
-
-export const __filename = fileURLToPath(import.meta.url);
-export const __dirname = dirname(__filename);
 
 const program = new Command();
 const srcPath = path.resolve(__dirname, '../template');

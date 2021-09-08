@@ -1,9 +1,8 @@
 {
   "name": "@jpark011/create-react-app",
-  "version": "1.0.0",
+  "version": "0.0.2",
   "description": "Create a minimal & standard React app (with TS + emotion)",
   "main": "dist/index.js",
-  "type": "module",
   "bin": "dist/index.js",
   "scripts": {
     "build": "rm -rf dist && tsc",
@@ -46,7 +45,7 @@
     "fs-extra": "^10.0.0",
     "glob": "^7.1.7",
     "mkdirp": "^1.0.4",
-    "ora": "^6.0.0",
+    "ora": "^5.0.0",
     "rimraf": "^3.0.2",
     "simple-git": "^2.45.1"
   }
